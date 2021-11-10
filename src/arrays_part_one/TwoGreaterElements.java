@@ -3,6 +3,9 @@ package arrays_part_one;
 import java.util.ArrayList;
 
 public class TwoGreaterElements {
+    public static void main(String[] args) {
+        System.out.println("hey");
+    }
 
     public ArrayList<Integer> solve(ArrayList<Integer> A) {
 
